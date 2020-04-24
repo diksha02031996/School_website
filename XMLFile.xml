@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>images/1-1.jpg</ImageUrl>
+    <NavigateUrl>http://www.1800flowers.com</NavigateUrl>
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/gal-1.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/gandhi.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/jn1.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <!--<Ad>
+    <ImageUrl>images/7-7.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/8.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/9.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/10.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/11.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images/12.jpg</ImageUrl>
+    <NavigateUrl>http://www.edibleblooms.com</NavigateUrl>
+    <AlternateText>Edible Blooms</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>ASP.NET</Keyword>
+  </Ad>-->
+</Advertisements>
